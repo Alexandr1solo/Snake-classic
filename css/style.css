@@ -1,0 +1,16 @@
+canvas {
+    display: block;
+    margin: 0 auto;
+
+}
+
+html {
+    background-image: url("../img/back-2.png");
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: cover;
+}
+
+body {
+    margin-top: 100px;
+}
